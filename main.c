@@ -29,7 +29,7 @@ int main()
         if(sum<stake&&sum)
         {
             printf("\nYou don't have enough money. The stake will be changed!");
-            sum=stake;
+            stake=sum;
         }
     }while((number!=input)&&sum);
     if(sum==0)
