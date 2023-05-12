@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671018303 source:c:\users\lucia\desktop\seminar 5 online\2_gligorascu_lucian_cr12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
